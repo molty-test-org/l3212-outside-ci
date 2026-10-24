@@ -1,6 +1,6 @@
 def greet(name: str) -> str:
     """The greeting the app shows a visitor."""
-    return f"Hello, {name}!"
+    return f"Hey, {name}!"
 
 
 if __name__ == "__main__":
